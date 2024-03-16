@@ -1,0 +1,12 @@
+Customer Name: manvi
+Movie Name: Potrait of a lady on fire
+Total Price: 50INR
+Customer Name: manvi
+Movie Name: Royal Blue
+Total Price: 40INR
+Customer Name: manvi
+Movie Name: Royal Blue
+Total Price: 40INR
+Customer Name: manvi
+Movie Name: Royal Blue
+Total Price: 40INR
